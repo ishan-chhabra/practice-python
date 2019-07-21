@@ -1,5 +1,5 @@
 # practice-python
-
+[![Developer](https://img.shields.io/badge/author-Ishan%20Chhabra-blue.svg)]()
 
 ## Session 1
 ### Question 1
