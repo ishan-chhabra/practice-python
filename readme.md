@@ -44,3 +44,10 @@ D is the variable whose values should be input to your program in a comma-separa
 `
 Write a program that accepts a comma separated sequence of words as input and prints the words in a comma-separated sequence after sorting them alphabetically.
 `
+
+### Question 6
+
+    session-one/six.py
+`
+Given the marks of five subjects, you have to calculate and print the average of the total marks.
+`
