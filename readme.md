@@ -37,3 +37,10 @@ C is 50. H is 30.
 D is the variable whose values should be input to your program in a comma-separated sequence.
 
 `
+
+### Question 5
+
+    session-one/five.py
+`
+Write a program that accepts a comma separated sequence of words as input and prints the words in a comma-separated sequence after sorting them alphabetically.
+`
