@@ -51,3 +51,10 @@ Write a program that accepts a comma separated sequence of words as input and pr
 `
 Given the marks of five subjects, you have to calculate and print the average of the total marks.
 `
+
+### Question 7
+
+    session-one/seven.py
+`
+You will be provided with the number of rows i.e. r and columns i.e. c as the input and your job is to create a matrix of size rxc. Also, the matrix should have elements starting from 1 to rxc with an increment of one in row manner.
+`
