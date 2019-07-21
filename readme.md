@@ -13,6 +13,7 @@ Write a program which accepts a sequence of comma-separated numbers from console
 ### Question 2
 
     session-one/two.py
+
 `
 With a given integral number n, write a program to generate a dictionary that contains (i, i*i) such that is an integral number between 1 and n (both included). and then the program should print the dictionary.
 `
@@ -20,15 +21,16 @@ With a given integral number n, write a program to generate a dictionary that co
 ### Question 3
 
     session-one/three.py
+
 `
 Write a program which will find all such numbers which are divisible by 7 but are not a multiple of 5, between 2000 and 3200 (both included).
 The numbers obtained should be printed in a comma-separated sequence on a single line.
-
 `
 
 ### Question 4
 
     session-one/four.py
+
 `
 Write a program that calculates and prints the value according to the given formula:
 Q = Square root of [(2 * C * D)/H]
@@ -41,6 +43,7 @@ D is the variable whose values should be input to your program in a comma-separa
 ### Question 5
 
     session-one/five.py
+
 `
 Write a program that accepts a comma separated sequence of words as input and prints the words in a comma-separated sequence after sorting them alphabetically.
 `
@@ -48,6 +51,7 @@ Write a program that accepts a comma separated sequence of words as input and pr
 ### Question 6
 
     session-one/six.py
+
 `
 Given the marks of five subjects, you have to calculate and print the average of the total marks.
 `
@@ -55,6 +59,7 @@ Given the marks of five subjects, you have to calculate and print the average of
 ### Question 7
 
     session-one/seven.py
+
 `
 You will be provided with the number of rows i.e. r and columns i.e. c as the input and your job is to create a matrix of size rxc. Also, the matrix should have elements starting from 1 to rxc with an increment of one in row manner.
 `
@@ -62,6 +67,7 @@ You will be provided with the number of rows i.e. r and columns i.e. c as th
 ### Question 8
 
     session-one/eight.py
+    
 `
 Write a program that computes the net amount of a bank account based a transaction log from console input. The transaction log format is shown as following:
 D 100
