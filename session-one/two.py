@@ -1,3 +1,10 @@
+'''
+    File name: two.py
+    Author: Ishan Chhabra
+    Date created: 7/20/2019
+    Python Version: 3.7
+'''
+
 # taking inputs...
 n = int(input())
 i = 1
