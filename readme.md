@@ -58,3 +58,14 @@ Given the marks of five subjects, you have to calculate and print the average of
 `
 You will be provided with the number of rows i.e. r and columns i.e. c as the input and your job is to create a matrix of size rxc. Also, the matrix should have elements starting from 1 to rxc with an increment of one in row manner.
 `
+
+### Question 8
+
+    session-one/eight.py
+`
+Write a program that computes the net amount of a bank account based a transaction log from console input. The transaction log format is shown as following:
+D 100
+W 200
+
+D means deposit while W means withdrawal.
+`
